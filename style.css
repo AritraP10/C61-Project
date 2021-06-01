@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: aqua;
+
+}
+img{
+    height: 100px;
+    width: 100px;
+    padding-top: 50px;
+}
+#myname{
+    font-size: 50px;
+    padding-bottom: 50px;
+}
